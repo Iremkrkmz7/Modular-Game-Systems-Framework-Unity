@@ -1,4 +1,4 @@
-# RunAway-AI-Prototype
+#Modular Game Systems Framework (Unity C#)
 # 🛸 Run Away — AI & Gameplay Prototype
 <img width="1027" height="633" alt="Ekran görüntüsü 2026-05-03 235939" src="https://github.com/user-attachments/assets/d0aea7cf-f091-425a-93a4-f0e3f9120c1f" />
 <img width="888" height="579" alt="Ekran görüntüsü 2026-05-04 000158" src="https://github.com/user-attachments/assets/f912c6f4-4883-4d56-a450-8a778c76a928" />
